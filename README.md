@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [https://github.com/raviigarg/kafka-implementation-asp-dotnet-core](https://github.com/raviigarg/kafka-implementation-asp-dotnet-core)
+<!-- - 🔭 I’m currently working on [https://github.com/raviigarg/kafka-implementation-asp-dotnet-core](https://github.com/raviigarg/kafka-implementation-asp-dotnet-core) -->
